@@ -1,4 +1,3 @@
-from cgitb import text
 import slack
 import os
 from pathlib import Path
